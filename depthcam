@@ -1,0 +1,8 @@
+{
+	"appId": "01c84bffc1d14fe3a6796d4e0726a4cb",
+	"channel": "depthcam",
+	"cameras": [
+		{"id": 1, "cameraIndex": 0, "stereo": true}
+	],
+	"recording": false
+}
